@@ -1,0 +1,18 @@
+
+  
+  .navbar {
+    background: black;
+    height: 60px;
+  }
+  
+  .navbar li {
+    color: white;
+    font-size: 1.3rem;
+    text-decoration: none;
+    margin: 5px;
+    line-height: 3;
+    float: left;
+    display: block;
+    margin: 60px;
+  }
+  

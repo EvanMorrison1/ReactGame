@@ -1,0 +1,75 @@
+[
+
+    {
+        "id": 0,
+        "name": "Rocko",
+        "image": "https://uproxx.files.wordpress.com/2016/08/rocko-modern-life.jpg?quality=95"
+    },
+
+   {
+       "id": 1,
+       "name": "Real Monsters",
+       "image": "http://cdn.playbuzz.com/cdn//250bd706-d128-4db2-87dc-cfe6c37ab8ac/2ccca8e8-0bb6-4fc0-b7c5-c05b597af079.jpg"
+   },
+
+   {
+    "id": 2,
+    "name": "Rocket Power",
+    "image": "https://vignette.wikia.nocookie.net/rocketpower/images/d/d6/Shirtless_Otto_and_Twister.jpg/revision/latest?cb=20180304220040"
+},
+
+{
+    "id": 3,
+    "name": "Nigel",
+    "image": "https://vignette.wikia.nocookie.net/p__/images/e/e9/P435859342-3.jpg/revision/latest/scale-to-width-down/300?cb=20140529235856&path-prefix=protagonist"
+},
+
+{
+    "id": 4,
+    "name": "Hey Arnold",
+    "image": "https://imgix.bustle.com/rehost/2016/9/13/e38e6c8e-0901-4e3d-8b90-630bc937cd0d.png?w=970&h=582&fit=crop&crop=faces&auto=format&q=70&dpr=2"
+},
+
+{
+    "id": 5,
+    "name": "Helga",
+    "image": "https://cdn.citylab.com/media/img/citylab/2017/11/unnamed_1/940.jpg?mod=1511224150"
+},
+
+{
+    "id": 6,
+    "name": "Chuckie",
+    "image": "https://metrouk2.files.wordpress.com/2016/08/rugrats-chuckie.jpg"
+},
+{
+    "id": 7,
+    "name": "Anjelica",
+    "image": "https://vignette.wikia.nocookie.net/nickelodeon/images/1/16/Rugrats_Angelica_Orders_Out.jpg/revision/latest?cb=20140915002014"
+},
+
+{
+    "id": 8,
+    "name": "Spongebob",
+    "image": "https://nerdist.com/wp-content/uploads/2016/07/spongebob.jpg"
+},
+
+{
+    "id": 9,
+    "name": "Angry Beavers",
+    "image": "https://assets.change.org/photos/9/tn/gl/rUtNglKpvxGPFNl-800x450-noPad.jpg?1528147330"
+},
+
+{
+    "id": 10,
+    "name": "Doug",
+    "image": "https://www.sickchirpse.com/wp-content/uploads/2014/09/Doug.png"
+},
+
+{
+    "id": 11,
+    "name": "Catdog",
+    "image": "https://www.toonzone.net/news/images/2012-03/CatDogS1V2/CatDog01.jpg"
+}
+
+
+]
